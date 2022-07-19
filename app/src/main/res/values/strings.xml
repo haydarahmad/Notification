@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">notification</string>
+    <string name="time_reamining">Time Reamining: %d</string>
+    <string name="snooze">snooze</string>
+</resources>
